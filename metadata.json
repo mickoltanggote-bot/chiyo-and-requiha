@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Chiyo \u0026 Requiha Portfolio",
+  "description": "The personal portfolio website of Chiyo \u0026 Requiha, showcasing their unique journeys in creativity, academics, leadership, gaming, and varsity athletics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
